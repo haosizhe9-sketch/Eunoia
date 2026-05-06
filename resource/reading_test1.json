@@ -1,0 +1,355 @@
+[
+  {
+    "passage_name": "Test 1, Passage A",
+    "question_groups": [
+      {
+        "group_type": "Multiple Choice",
+        "group_instruction": "Choose the correct letter, A, B, C or D.",
+        "shared_content": "A. It was expected given his previous tournament record.\nB. It was remarkable because of the high level of his competitors.\nC. It was primarily due to a complete change in his physical training.\nD. It was overshadowed by the reputations of Nadal and Federer.",
+        "questions": [
+          {
+            "question_number": 1,
+            "question_text": "What does the writer say about Andy Murray’s achievement in 2016?",
+            "correct_answer": "B",
+            "explanation": "The text states Murray's achievement was \"made even more remarkable by the fact that he did this during a period considered to be one of the strongest in the sport's history, competing against the likes of Rafael Nadal, Roger Federer and Novak Djokovic...\"."
+          }
+        ]
+      },
+      {
+        "group_type": "Multiple Choice",
+        "group_instruction": "Choose the correct letter, A, B, C or D.",
+        "shared_content": "A. He began using a racket made entirely of synthetic material.\nB. He invited a new coach to help with his playing style.\nC. He changed the type of string used for the vertical parts of his racket.\nD. He stopped using natural gut strings altogether.",
+        "questions": [
+          {
+            "question_number": 2,
+            "question_text": "According to the second paragraph, what was the \"subtle\" change Murray made in 2012?",
+            "correct_answer": "C",
+            "explanation": "The passage notes that while he kept natural string for the \"crosses\" (horizontals), in 2012 he \"switched to a synthetic string for the mains\" (verticals)."
+          }
+        ]
+      },
+      {
+        "group_type": "Multiple Choice",
+        "group_instruction": "Choose the correct letter, A, B, C or D.",
+        "shared_content": "A. They are mass-produced to meet high market demand.\nB. They are significantly lighter than those sold to the general public.\nC. They are modified specifically to optimize each player's performance.\nD. They are available for purchase only in specialized shops in Florida.",
+        "questions": [
+          {
+            "question_number": 3,
+            "question_text": "What does Colin Triplow imply about the rackets used by elite professionals?",
+            "correct_answer": "C",
+            "explanation": "Triplow states, \"Touring professionals have their rackets customised to their specific needs... each racket is individually made to suit the player who uses it\"."
+          }
+        ]
+      },
+      {
+        "group_type": "Multiple Choice",
+        "group_instruction": "Choose the correct letter, A, B, C or D.",
+        "shared_content": "A. It was deemed too expensive for amateur players to afford.\nB. It was manufactured by an uncertified German company.\nC. It resulted in an unfair amount of topspin during play.\nD. It was prone to breaking and caused safety concerns.",
+        "questions": [
+          {
+            "question_number": 4,
+            "question_text": "Why did the International Tennis Federation ban the \"spaghetti-strung\" racket?",
+            "correct_answer": "C",
+            "explanation": "The text explains the spaghetti-strung racket \"generated so much topspin that it was quickly banned by the International Tennis Federation\"."
+          }
+        ]
+      },
+      {
+        "group_type": "True/False/Not Given",
+        "group_instruction": "Do the following statements agree with the information given in the Reading Passage?\nIn boxes 5-9 on your answer sheet, write:\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
+        "shared_content": null,
+        "questions": [
+          {
+            "question_number": 5,
+            "question_text": "Mike and Bob Bryan experimented with the aesthetics of their rackets as well as the technical specifications.",
+            "correct_answer": "TRUE",
+            "explanation": "The Bryan brothers \"experimented with different kinds of paint\" (aesthetics) in addition to length and string pattern (specifications)."
+          },
+          {
+            "question_number": 6,
+            "question_text": "Most professional players prefer to keep their string tension constant regardless of the playing conditions.",
+            "correct_answer": "FALSE",
+            "explanation": "The text says professionals \"continually change it [tension] depending on various factors including the court surface, climatic conditions, and game styles\"."
+          },
+          {
+            "question_number": 7,
+            "question_text": "Synthetic strings were developed in the 1990s because they offered better control than natural gut.",
+            "correct_answer": "NOT GIVEN",
+            "explanation": "While the text mentions synthetic strings were \"cheaper and more durable,\" it does not state they were developed specifically to provide better control than natural gut."
+          },
+          {
+            "question_number": 8,
+            "question_text": "Co-polyester strings are currently the most popular choice among professional tennis players.",
+            "correct_answer": "TRUE",
+            "explanation": "The passage states, \"Of the synthetics, co-polyester is by far the most widely used\"."
+          },
+          {
+            "question_number": 9,
+            "question_text": "Pete Sampras used lead weights to increase the durability of his racket frame.",
+            "correct_answer": "FALSE",
+            "explanation": "The weights were added for \"serving power,\" not for durability."
+          }
+        ]
+      },
+      {
+        "group_type": "Summary Completion",
+        "group_instruction": "Complete the summary below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.",
+        "shared_content": "Further Frame and Handle Modifications",
+        "questions": [
+          {
+            "question_number": 10,
+            "question_text": "Beyond string adjustments, players often modify the racket frame and handle. For instance, some players choose to have the [BLANK] of a specific racket attached to a different frame to suit their grip preference.",
+            "correct_answer": "handle",
+            "explanation": "The text mentions players \"will have the handle of one racket moulded onto the frame of a different racket\"."
+          },
+          {
+            "question_number": 11,
+            "question_text": "Others, like Goncalo Oliveira, opted for [BLANK] grips because his original ones were not comfortable.",
+            "correct_answer": "thinner",
+            "explanation": "Oliveira \"replaced the original grips... with something thinner because they had previously felt uncomfortable\"."
+          },
+          {
+            "question_number": 12,
+            "question_text": "These modern customizations have allowed the sport to reach [BLANK] that were previously thought impossible.",
+            "correct_answer": "greater levels",
+            "explanation": "The conclusion states customization has \"pushed the standards of the game to greater levels\"."
+          },
+          {
+            "question_number": 13,
+            "question_text": "While players in the past relied on heavy [BLANK] frames, today's technology continues to push the boundaries of tennis performance.",
+            "correct_answer": "wooden",
+            "explanation": "The text contrasts modern rackets with the \"days of natural strings and heavy, wooden frames\"."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "passage_name": "Test 1, Passage B",
+    "question_groups": [
+      {
+        "group_type": "Matching Information",
+        "group_instruction": "The reading passage has seven paragraphs, A-G. Which paragraph contains the following information?\nWrite the correct letter, A-G, in boxes 14-18 on your answer sheet.",
+        "shared_content": null,
+        "questions": [
+          {
+            "question_number": 14,
+            "question_text": "A description of how specific coastal features aided pirate activity.",
+            "correct_answer": "B",
+            "explanation": "Paragraph B explains that \"the numerous coves along the coast providing places for them to hide their boats and strike undetected\"."
+          },
+          {
+            "question_number": 15,
+            "question_text": "An instance where government officials themselves committed an act of piracy.",
+            "correct_answer": "E",
+            "explanation": "Paragraph E describes an event in 355 BCE where Athenian ambassadors \"made a detour from their official travel to capture a ship... taking the wealth found onboard for themselves\"."
+          },
+          {
+            "question_number": 16,
+            "question_text": "A mention of the first specific names given to pirate groups in historical records.",
+            "correct_answer": "D",
+            "explanation": "Paragraph D mentions the \"Amarna Letters\" which recorded two distinct groups: \"the Lukka and the Sherden\"."
+          },
+          {
+            "question_number": 17,
+            "question_text": "The contrast between the modern cultural image of pirates and their ancient reality.",
+            "correct_answer": "A",
+            "explanation": "Paragraph A contrasts the modern image of Caribbean \"swashbucklers\" with the ancient Mediterranean pirates who operated thousands of years earlier."
+          },
+          {
+            "question_number": 18,
+            "question_text": "An explanation of how Rome turned former pirates into useful citizens.",
+            "correct_answer": "G",
+            "explanation": "Paragraph G states that as a long-term solution, many pirates \"were offered land in fertile areas... Rome got productive farmers that further boosted its economy\"."
+          }
+        ]
+      },
+      {
+        "group_type": "Summary Completion",
+        "group_instruction": "Complete the summary below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.",
+        "shared_content": "Geography and Piracy",
+        "questions": [
+          {
+            "question_number": 19,
+            "question_text": "Many inhabitants lived in [BLANK] areas where they had to rely on the sea for resources like fish and salt.",
+            "correct_answer": "rugged and hilly / mountainous",
+            "explanation": "The text states inhabitants of \"rugged and hilly, even mountainous\" areas relied on marine resources."
+          },
+          {
+            "question_number": 20,
+            "question_text": "Many inhabitants lived in rugged and hilly areas where they had to rely on the sea for resources like [BLANK].",
+            "correct_answer": "fish and salt",
+            "explanation": "These are the specific marine resources mentioned that the inhabitants relied upon."
+          },
+          {
+            "question_number": 21,
+            "question_text": "Because these people were skilled sailors with intimate knowledge of the coast, they turned to piracy during times of [BLANK].",
+            "correct_answer": "hardships",
+            "explanation": "The passage states that \"during hardships, these men turned to piracy\"."
+          },
+          {
+            "question_number": 22,
+            "question_text": "Furthermore, ancient trade was restricted to specific [BLANK] near the shore, making merchant ships easy targets for a pirate ambush.",
+            "correct_answer": "navigable routes",
+            "explanation": "Ancient ships were \"restricted to a few well-known navigable routes that followed the coastline\"."
+          }
+        ]
+      },
+      {
+        "group_type": "True/False/Not Given",
+        "group_instruction": "Do the following statements agree with the information given in the Reading Passage?\nIn boxes 23-26 on your answer sheet, write:\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
+        "shared_content": null,
+        "questions": [
+          {
+            "question_number": 23,
+            "question_text": "Ancient governments occasionally hired pirates to assist their navies during military conflicts.",
+            "correct_answer": "TRUE",
+            "explanation": "Paragraph C mentions governments \"employing their skills and numbers against their opponents,\" acting as a \"first wave of attack\"."
+          },
+          {
+            "question_number": 24,
+            "question_text": "The King of Alashiya admitted to Pharaoh Akhenaten that his people were working with the Lukka pirates.",
+            "correct_answer": "FALSE",
+            "explanation": "The text states the King of Alashiya \"rejected Akhenaten's claims of a connection with the Lukka\"."
+          },
+          {
+            "question_number": 25,
+            "question_text": "Unlike the Egyptians, the ancient Greeks generally viewed the lifestyle of pirates with respect.",
+            "correct_answer": "TRUE",
+            "explanation": "The passage notes that writers like Homer and historians like Thucydides \"condones,\" \"praises,\" and \"glorified\" the pirates."
+          },
+          {
+            "question_number": 26,
+            "question_text": "The Roman Republic took immediate military action as soon as pirates began kidnapping high-ranking officials.",
+            "correct_answer": "FALSE",
+            "explanation": "Even after pirates kidnapped dignitaries like Julius Caesar, the text says \"Rome, however, did nothing, further encouraging piracy.\" Concerted action didn't happen until 67 BCE."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "passage_name": "Test 1, Passage C",
+    "question_groups": [
+      {
+        "group_type": "Matching People with Statements",
+        "group_instruction": "Look at the following statements (Questions 27-32) and the list of researchers below. Match each statement with the correct researcher or group, A-E.\nWrite the correct letter, A-E, in boxes 27-32 on your answer sheet.\nNB: You may use any letter more than once.",
+        "shared_content": "List of Researchers\nA. Stephan Lewandowsky & Elizabeth Marsh\nB. René Descartes\nC. Baruch Spinoza\nD. Erik Asp & Daniel Gilbert\nE. Food and Drug Administration (FDA)",
+        "questions": [
+          {
+            "question_number": 27,
+            "question_text": "People initially accept all information as true before a secondary mental process evaluates it.",
+            "correct_answer": "C",
+            "explanation": "Spinoza argued that \"people accept all encountered information (or misinformation) by default and then subsequently verify or reject it through a separate cognitive process\"."
+          },
+          {
+            "question_number": 28,
+            "question_text": "Misinformation can cause a group of people to develop false beliefs that have negative social impacts.",
+            "correct_answer": "A",
+            "explanation": "Lewandowsky and Marsh suggested that \"misperceptions... especially when they occur among large groups of people, may have detrimental, downstream consequences for health, social harmony, and the political climate\"."
+          },
+          {
+            "question_number": 29,
+            "question_text": "Humans only accept or reject a piece of information after they have actively weighed its truthfulness.",
+            "correct_answer": "B",
+            "explanation": "Descartes argued that \"a person only accepts or rejects information after considering its truth or falsehood\"."
+          },
+          {
+            "question_number": 30,
+            "question_text": "The brain uses different physical areas for processing new information versus applying doubt to it.",
+            "correct_answer": "D",
+            "explanation": "The research of Asp and Gilbert found that the pattern of encoding information as true is \"consistent with the observation that mental resources for skepticism physically reside in a different part of the brain\"."
+          },
+          {
+            "question_number": 31,
+            "question_text": "Even after being corrected, false information can still continue to influence a person’s perspective.",
+            "correct_answer": "E",
+            "explanation": "The passage notes that even with the FDA's monitoring, \"even misinformation that is successfully corrected can continue to affect attitudes\"."
+          },
+          {
+            "question_number": 32,
+            "question_text": "Inaccurate information can lead individuals to behave differently than they would if they knew the facts.",
+            "correct_answer": "A",
+            "explanation": "The research teams of Lewandowsky and Marsh suggested misinformation can lead people to \"think and act differently than they would if they were correctly informed\"."
+          }
+        ]
+      },
+      {
+        "group_type": "Sentence Completion",
+        "group_instruction": "Complete the sentences below.\nChoose NO MORE THAN TWO WORDS from the passage for each answer.",
+        "shared_content": null,
+        "questions": [
+          {
+            "question_number": 33,
+            "question_text": "While lying has always existed to gain a [BLANK], modern technology has increased the speed and scale of its impact.",
+            "correct_answer": "strategic advantage",
+            "explanation": "The text states that \"Deceiving others can offer an apparent opportunity to gain strategic advantage\"."
+          },
+          {
+            "question_number": 34,
+            "question_text": "In the United States, regulatory bodies usually focus on the [BLANK] of misinformation rather than stopping it before it is broadcast.",
+            "correct_answer": "post hoc detection",
+            "explanation": "The author notes that regulatory agencies in the U.S. \"tend to focus on post hoc detection of broadcast information\" rather than \"preemptive censoring\"."
+          },
+          {
+            "question_number": 35,
+            "question_text": "The [BLANK] is an example of a system where the public can help identify misleading pharmaceutical advertisements.",
+            "correct_answer": "Bad Ad program",
+            "explanation": "This is the specific name of the FDA mechanism mentioned where \"people can report advertising in apparent violation of FDA guidelines\"."
+          },
+          {
+            "question_number": 36,
+            "question_text": "For a campaign against misinformation to be effective, it must have sufficient [BLANK] and frequency.",
+            "correct_answer": "reach",
+            "explanation": "The text states that a campaign \"requires resources and planning to accomplish necessary reach and frequency\"."
+          },
+          {
+            "question_number": 37,
+            "question_text": "Because some people are unaware that information can be false, researchers suggest teaching [BLANK] to children in school.",
+            "correct_answer": "media literacy",
+            "explanation": "The passage suggests the \"utility of media literacy efforts as early as elementary school\"."
+          }
+        ]
+      },
+      {
+        "group_type": "Multiple Choice",
+        "group_instruction": "Choose the correct letter, A, B, C or D.",
+        "shared_content": "A. Journalists are often the ones responsible for spreading it.\nB. People fail to see the difference between factual stories and false ones when reading quickly.\nC. There is a lack of scientific consensus on what constitutes \"truth.\"\nD. Digital platforms are legally protected from being censored.",
+        "questions": [
+          {
+            "question_number": 38,
+            "question_text": "According to the writer, why is it difficult to stop \"fake news\"?",
+            "correct_answer": "B",
+            "explanation": "The writer states that \"people do not distinguish between demonstrably false stories and those based in fact when scanning and processing written information\"."
+          }
+        ]
+      },
+      {
+        "group_type": "Multiple Choice",
+        "group_instruction": "Choose the correct letter, A, B, C or D.",
+        "shared_content": "A. A single, powerful technological solution will eventually be found.\nB. It is a hopeless task because human fallibility is permanent.\nC. It will require a long-term, organized effort and constant monitoring.\nD. Only government-led censorship can truly solve the problem.",
+        "questions": [
+          {
+            "question_number": 39,
+            "question_text": "What does the writer suggest about the future of battling misinformation?",
+            "correct_answer": "C",
+            "explanation": "The writer concludes that the journey will be \"long and arduous,\" requiring \"continued theoretical consideration,\" \"monitoring tools,\" and \"coordinated efforts over time\"."
+          }
+        ]
+      },
+      {
+        "group_type": "Multiple Choice",
+        "group_instruction": "Choose the correct letter, A, B, C or D.",
+        "shared_content": "A. To criticize the lack of effort from the scientific community.\nB. To warn readers that the problem is getting worse every day.\nC. To emphasize that solving the issue requires both theory and social cooperation.\nD. To argue that human needs for information are the primary cause of lies.",
+        "questions": [
+          {
+            "question_number": 40,
+            "question_text": "What is the writer’s main purpose in the final paragraph?",
+            "correct_answer": "C",
+            "explanation": "The final paragraph summarizes that overcoming misinformation requires \"coordinated efforts\" and a \"recognition among fellow members of society\" to counter claims not based on scientific consensus."
+          }
+        ]
+      }
+    ]
+  }
+]

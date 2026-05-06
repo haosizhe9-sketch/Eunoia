@@ -1,0 +1,10 @@
+{
+  "name": "eunoia-news-daily-gen",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Generate news_mock_daily_{date}.json via Alibaba DashScope (run on server; do not ship API key in repo)",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  }
+}

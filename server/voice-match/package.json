@@ -1,0 +1,13 @@
+{
+  "name": "eunoia-voice-match",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Socket.IO matchmaking + WebRTC signaling for Eunoia anonymous voice chat",
+  "main": "index.js",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "socket.io": "^4.8.1"
+  }
+}
