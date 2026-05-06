@@ -29,7 +29,6 @@ Flutter 应用工程，附带与产品 UI 对齐的静态手机壳原型 HTML。
 
 ## 云服务器（本项目当前部署信息）
 
-- **公网 IP**：`43.155.24.58`（腾讯云香港；若实例更换 IP 请同步修改文档与构建参数）。
 - **SSH / 代码路径示例**：`/home/ubuntu/Eunoia`。
 - **域名**：`www.eunoia5.top`（可与 IP 并行使用；HTTPS Web 语聊建议走同源 + Nginx，见 `server/voice-match/DEPLOY.md`）。
 
